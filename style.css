@@ -1,0 +1,8 @@
+.navbar {
+	display : flex;
+	justify-content: space-around;
+	background-color: orange;
+}
+
+.body { 
+	background-color: #7CFC00 }
